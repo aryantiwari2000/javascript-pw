@@ -7,6 +7,7 @@
 
 // console.log("Timmer Triggered");
 
+
 for(let i = 0; i < 10000000000; i++) {
     // some work
 }
@@ -26,3 +27,5 @@ console.log("starting timer 3");
 setTimeout(() => {
     console.log("timer 3 done");
 }, 100);
+
+// end here
